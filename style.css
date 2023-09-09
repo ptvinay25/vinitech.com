@@ -566,7 +566,7 @@ input[type=checkbox]:checked::before{
 .dropdown-content a {
   color: black;
   padding: 1%;
-  width: 12%;
+  width: 100px;
   text-decoration: none;
   display: inline-block;
 }
