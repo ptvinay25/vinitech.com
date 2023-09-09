@@ -207,3 +207,7 @@ function myFunction() {
       }
     }
   }
+
+ window.onload = function(){
+    document.getElementById("autoplay").play;
+  }
