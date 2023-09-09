@@ -26,7 +26,10 @@ function disp_alert(){
               x.type = "password";
             }
           }
-      
+
+ window.onload = function(){
+    document.getElementById("autoplay").play;
+  }
           function resetfunc()
       {
         document.getElementById("na").value="";
